@@ -1,0 +1,18 @@
+.lampa {
+    width: 60px;
+    height: 60px;
+    border:1px solid gray;
+}
+
+.jatekter {
+    padding: 15px;
+    justify-content: center;
+}
+
+.lampa.fel{
+    background-color: yellow;
+}
+
+.lampa.le{
+    background-color: green;
+}
